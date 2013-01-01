@@ -13,7 +13,7 @@ We have found it feasible to implement the different kernel changes and tweaks p
 
 model 
 
-we have opted the Agile modeling methodology in building this ROM. Therefore we have envisioned a high level structure of the building process and have correspondingly allotted tasks to each of the members. 
+we have opted the Agile modeling methodology in building this ROM. Therefore we have envisioned a high level structure of the building process and have prioritized the requirements correspondingly.
 Bibliography
 
 www.android.google.com
