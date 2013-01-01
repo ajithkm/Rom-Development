@@ -3,3 +3,7 @@ One of the biggest downsides of todays android smartphones is the way they utili
 Summary of work
 
 This project aims at extending battery life of the android device by removing/making installation optional of the unnecessary/less frequently used stock applications (otherwise termed as bloatwares),incorporating inverted google applications(gmail, android play, maps, youtube etc) and other tweaks in the android kernel.We are compiling the ROM from the source code provided by google. 
+
+Feasibility study
+
+The required hardware specifications for the android software is met by the aakash tablet and the building of the ROM is found feasible.
