@@ -1,0 +1,5 @@
+One of the biggest downsides of todays android smartphones is the way they utilize power.The maximum battery drain that a smartphone provides last for about 36 hours.and we have opted this as the theme of our project.We propose to build a customised vesion of the android system(similar to an operating system) that has a longer battery drain and utilizes memory more efficiently.
+
+Summary of work
+
+This project aims at extending battery life of the android device by removing/making installation optional of the unnecessary/less frequently used stock applications (otherwise termed as bloatwares),incorporating inverted google applications(gmail, android play, maps, youtube etc) and other tweaks in the android kernel.We are compiling the ROM from the source code provided by google. 
