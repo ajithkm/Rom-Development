@@ -10,3 +10,10 @@ The required hardware specifications for the android software is met by the aaka
 
 
 We have found it feasible to implement the different kernel changes and tweaks proposed on the aakash tablet as it satisfies the hardware specifications.
+
+
+Bibliography
+
+www.android.google.com
+www.xda-developers.com
+www.droidforums.net
