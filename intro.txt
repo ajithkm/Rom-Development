@@ -11,7 +11,9 @@ The required hardware specifications for the android software is met by the aaka
 
 We have found it feasible to implement the different kernel changes and tweaks proposed on the aakash tablet as it satisfies the hardware specifications.
 
+model 
 
+we have opted the Agile modeling methodology in building this ROM. Therefore we have created a high level architectural of the building process and have allotted tasks to each of the members. Different stages of the building process will be frequently updated on github
 Bibliography
 
 www.android.google.com
