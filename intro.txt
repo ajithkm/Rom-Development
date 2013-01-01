@@ -7,3 +7,6 @@ This project aims at extending battery life of the android device by removing/ma
 Feasibility study
 
 The required hardware specifications for the android software is met by the aakash tablet and the building of the ROM is found feasible.
+
+
+We have found it feasible to implement the different kernel changes and tweaks proposed on the aakash tablet as it satisfies the hardware specifications.
